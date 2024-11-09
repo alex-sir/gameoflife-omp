@@ -9,7 +9,7 @@
 
 // matrix grid (MxN)
 #define M 64  // # of rows
-#define N 16  // # of columns
+#define N 64  // # of columns
 #define T 100 // # of time steps in simulation
 
 // 2 possible states for a cell
